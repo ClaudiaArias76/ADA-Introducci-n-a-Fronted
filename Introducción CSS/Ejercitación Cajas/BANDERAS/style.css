@@ -1,0 +1,166 @@
+body {
+    background-color:blueviolet;
+    overflow: scroll;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.Bandera-Argentina {
+    width: 300px;
+   height: 200px;
+   padding: 4rem 3rem 2rem 1rem;
+   border: black;
+   display: inline-block;
+   margin: 1px;
+}
+.franja-celeste {
+         background-color: skyblue;
+         width:100%;
+         height:33.33%
+}
+.franja-blanca {
+        background-color: white;
+        width:100%;
+        height:33.33%
+}
+.franja-celeste {
+        background-color: skyblue;
+        width:100%;
+        height:33.33%
+}
+.Bandera-México {
+        width: 300px;
+        height: 200px;
+        display: inline-block;
+        padding: 4rem 3rem 2rem 1rem;
+        border: black;
+        margin:1px;
+        position:relative;
+}
+.franj-ver-verde {
+    background-color:green;
+    width:33.33%;
+    height:100%;
+    float: left;
+}
+.franj-ver-blanca {
+    background-color:white;
+    width:33.33%;
+    height:100%;
+    float: left;
+}
+.franj-ver-roja {
+    background-color:red;
+    width:33.33%;
+    height:100%;
+    float: left;
+}
+.Bandera-Alemana {
+    width: 300px;
+    height: 200px;
+    padding: 4rem 3rem 2rem 1rem;
+    border: black;
+    display: inline-block;
+    margin:1px;
+}
+.franja-negra {
+    background-color:black;
+    width:100%;
+    height:33.33%
+}
+.franja-roja {
+    background-color:red;
+    width:100%;
+    height:33.33%
+}
+.franja-amarilla {
+    background-color:yellow;
+    width:100%;
+    height:33.33%
+}
+.Bandera-Francesa {
+    width: 300px;
+    height: 200px;
+    display:inline-block;
+    border: black;
+    margin:0px;
+}
+.francesa-azul {
+     background-color: blue;
+     width:33.33%;
+     height:100%;
+     float: left;
+}
+.francesa-blanca {
+    background-color:white;
+    width:33.33%;
+    height:100%;
+    float:left;
+}
+.francesa-roja {
+    background-color:red;
+    width:33.33%;
+    height:100%;
+    float: left;
+}
+.Bandera-Emiratos Árabes {
+    background-color: grey;
+    width: 300px;
+    height: 200px;
+    margin: 1px;
+    display:inline-block;
+}
+.franja-roja-ver-EA {
+                   background-color: red;
+                   width:70px;
+                   height:200px;
+                   margin: 0px;
+                   float:left;
+}
+.franja-verde-hor-EA {
+                   background-color:green;
+                   width:300px;
+                   height:66px;
+                   margin: 0px;;
+                   float:none;
+}
+.franja-blanca-hor-EA {
+    background-color:white;
+    width:300px;
+    height:66px;
+    margin:0px;
+    float: none;
+}
+.franja-negra-hor-EA {
+    background-color:black;
+    width: 300px;
+    height:66px;
+    margin:0;
+    float: none;
+}
+.Bandera-Canadá {
+    width: 300px;
+    height: 200px;
+    display:inline-block;
+    border: black;
+    margin:0px;
+}
+.franja-roja-hor-Ca {
+    background-color: red;
+    width:100px;
+    height: 200px;
+    float: left;
+}
+.franja-blanca-hor-Ca {
+    background-color:white;
+    width:100px;
+    height: 200px;
+    float: left;
+}
+.franja-roja-hor-Ca {
+    background-color: red;
+    width:100px;
+    height: 200px;
+    float: left;
+}

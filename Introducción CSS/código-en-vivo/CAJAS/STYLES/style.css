@@ -1,0 +1,43 @@
+.primer-div {
+            background-color:red;
+            height:12rem;
+            width:12rem;
+            padding: 4rem 3rem 2rem 1rem;
+            border: blue 1rem solid;
+            margin: 1.5rem;
+            box-shadow:5px 5px 10px black;
+            font-weight: 900;
+            /*
+            Card
+            12rem de alto y ancho total
+            2rem de borde azul
+            y 2rem de padding
+            */
+            display:inline-block;
+}
+.primer-div div {
+  color:black;
+  overflow: scroll;
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+}
+
+.segundo-div{
+  background-color:red;
+  height:4rem;
+  width:4rem;
+  padding: 1rem;
+  border: 5px blue solid;
+  margin: 3rem;
+  display:inline-block;
+}
+.contain-text{
+  font-weight: bold;
+  font-size: 20px;
+  text-shadow: 12px -8px 2px rgba(111,251,245,0.6);
+  letter-spacing: 1px;
+  font-family: 'Oswald', sans-serif;
+  text-indent: 40px;
+  background-color: black;
+}

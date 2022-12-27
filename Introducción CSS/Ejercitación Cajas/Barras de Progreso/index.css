@@ -1,0 +1,49 @@
+body {
+    background-color:azure;
+}
+
+.box-container {
+    width:500px;
+    height:30px;
+    border-radius: 100px;
+    padding: 3px;
+    position: relative;
+    margin: 10px 0;
+    background-color: gray;
+}
+.box-childreen {
+    position: absolute;
+    border-radius: 100px;
+    height: 85%;
+    background-color: green;
+    animation-duration: 3s forwards;
+}
+.box-ch1 {
+    width: 10%;
+}
+.box-ch2 {
+    width: 25%;
+}
+.box-ch3 {
+    width: 50%;
+}
+.box-ch4 {
+    width: 75%;
+}
+.box-ch5 {
+    width: 90%;
+}
+@keyframes box-childreen {
+    1% {
+        width: 1%;
+    }
+    50% {
+        width: 15%;
+    }
+    100% {
+        width: 10%;
+    }
+}
+.box-childreen {
+    animation-duration: 2s;
+}

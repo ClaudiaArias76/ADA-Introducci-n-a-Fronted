@@ -1,0 +1,30 @@
+body {
+    background-color: azure;
+    font-family: 'Caladea', serif;
+    font-size: 4rem;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25%;
+    font-style: italic;
+}
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25%;
+    font-style:normal;
+    font-weight: 900;
+}
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25%;
+    font-weight:900;
+    text-align: justify;
+}
+span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20%;
+    background-color: gray;
+    word-spacing: 30px;
+    letter-spacing: 20px;
+}
+a { text-decoration: none; }

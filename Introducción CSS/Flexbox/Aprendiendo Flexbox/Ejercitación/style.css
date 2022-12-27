@@ -1,0 +1,28 @@
+body {
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    height: 500px;
+    width: 800px;
+    border: black solid 2px;
+    display: flex;
+    padding: 1rem;
+    justify-content: space-between;
+}
+img {
+    width: 350px;
+}
+.contain-info {
+    border: black solid 2px;
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}

@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Catamaran', sans-serif;
+}
+h1 {
+    font-family:'Caladea', serif;
+}
+h2 {
+    font-family:'Caladea', serif;
+    font-size:larger;
+}
+#Fecha {
+    color:gray;
+    font-size:70%;
+}
+#Ingresos {
+    color:green
+}
+#Egresos {
+    color:red
+}

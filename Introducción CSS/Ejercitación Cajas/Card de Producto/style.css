@@ -1,0 +1,90 @@
+body {
+    background-color:skyblue;
+    display:inline-block;
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.contain-card {
+    background-color: rgb(175, 37, 60);
+    overflow: hidden;
+    display:flex;
+    margin:0;
+    padding:40px 0 0;
+    width: 520px;
+    height: 300px;
+    justify-content: center;
+    border-radius:8px 8px 0 0;
+}
+.Image .center {    
+    width:200px;
+    height: 250px;
+    display: flex;
+}
+.center {
+		    margin:30px auto;
+		    display:block;
+    }
+.description {
+    background-color:#0c1f2c;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size:larger;
+    margin:0px;
+    width: 520px;
+    height: 700px;
+    padding:0;
+    border-radius:0px 0px 8px 8px;
+}
+.description .title {
+    width:-520px;
+    height:92px;
+    padding:1px;
+    margin:0px 0px 20px;
+}
+.description .section {
+    background-color: #0c1f2c transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 520px;
+    height:22px;
+    margin-bottom: 15px;
+}
+.button1 {
+    font-size: 8px;
+    padding: 10px 1px 7px 1px;
+    border-radius: 10px;
+    border: 1px solid #cb2140;
+    margin: 0 5px;
+}
+.button2 {
+    font-size: 10px;
+    padding: 10px 1px 7px 1px;
+    border-radius: 100px;
+    border: 1px solid #cb2140;
+    margin: 0 5px;
+}
+.button3 {
+    font-size: 10px;
+    padding: 10px 1px 7px 1px;
+    border-radius: 100px;
+    border: 1px solid #cb2140;
+    margin: 0 5px;
+}
+.details3  {
+    width: 200px;
+    height: 48px;
+    background: #cb2140;
+    border-radius: 90px;
+    font-weight: 300;
+    font-size: 14px;
+    padding: 0 24px;
+    color: #fff;
+    border: 0;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}

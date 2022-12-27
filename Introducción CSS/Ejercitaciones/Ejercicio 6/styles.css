@@ -1,0 +1,35 @@
+ul {
+    background-color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;
+}
+#M {
+    color:red;
+}
+#B {
+    color:yellow;
+}
+#N {
+    color:orange;
+}
+#D {
+    color:rosybrown
+}
+#MAN {
+    color:orangered
+}
+#DAM {
+    color:wheat
+}
+#K {
+    color:green
+}
+#P {
+    color:rgb(202, 202, 32)
+}
+#F {
+    color:rgb(198, 55, 55);
+}
+#C {
+    color:rgb(191, 35, 35)
+}

@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    color:black;
+    font-size:5rem;
+    font-weight:bold;
+    text-align:left;
+}
+p {
+    font-family: 'Zen Antique', serif;
+    color:gray;
+    font-size:3rem;
+    text-align:justify;
+}
+a { text-decoration: none; }
+.italica { font-style: italic; }
+strong {  font-weight: 900; }
+.fuente1 {
+    font-family: 'Rubik', sans-serif;
+}

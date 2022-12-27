@@ -1,0 +1,89 @@
+.great-contain {
+    background-color:antiquewhite;
+    height:20vw;
+    width: 30rem;
+    padding: 2rem;
+    border: rgb(186, 186, 202) 1rem solid;
+    margin:0rem;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.Information {
+    width: 2rem;
+    height: 2rem;
+    /* position: absolute;
+    top: 100px;
+    left: 50px; */
+    position: relative;
+    display:flex;
+    font-family:'Sono', sans-serif;
+    font-size:smaller;
+    color:black;   
+}
+.Information .email2 {
+    position: absolute;
+    top: 115px;
+    left:-60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 8px;
+    text-align:center;
+}
+.recovery {
+    position: absolute;
+    top:90px;
+    left:-60px;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+.great-contain .Image {
+    position: absolute;
+    top: 50%;
+    left: 50%; 
+    display:flex;
+    margin: 0; 
+}
+.pequeña {
+    width: 50px;
+    height: 50px;
+}
+.text-personal .protect-date{
+    position: absolute;
+    top: 35%;
+    left: 32%;
+    display:flex;
+    text-align:justify;
+    font-family:'Sono', sans-serif;
+    color:black;
+    font-size:medium
+}
+.email {
+    position: absolute;
+    top:90px;
+    left:190px;
+    text-align: center;
+}
+.update {
+    background-color:aliceblue;
+    position: absolute;
+    top: 140px;               
+    left:-50px;
+    text-align: center;
+    border-color:aliceblue;
+    border-bottom: 0;
+    border-style:solid;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:small;
+}
+.confirm {
+    background-color: blue;
+    position: absolute;
+    top: 165px;
+    left:-50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:small;
+    text-align: center;
+    display: flex;
+    margin:0;
+}

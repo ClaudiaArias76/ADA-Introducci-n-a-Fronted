@@ -1,0 +1,29 @@
+@import url('./normalize.css');
+@import url('./header.css');
+@import url('./index.css');
+@import url('./login.css');
+@import url('./footer.css');
+
+:root {
+    --black: #141414;
+    --lightBlack: #525151f7;
+    --yellow: #d6ea23;
+    --font: 'Nanum Gothic';
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: var(--font);
+}
+
+h1,
+h2,
+p {
+   font-family: var(--font); 
+   color: white;
+}
+
+body {
+    background-color: var(--black);
+}
